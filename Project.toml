@@ -1,0 +1,7 @@
+name = "GNBC"
+uuid = "b15d2411-6f23-40ed-a71f-06596584cb65"
+authors = ["Daymond Ling"]
+version = "0.1.0"
+
+[compat]
+julia = "1.5"
